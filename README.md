@@ -1,0 +1,2 @@
+# coins
+Cryptocurrency for all
